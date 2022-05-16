@@ -1,9 +1,9 @@
 #!/bin/bash
 
-DIRETORIO='$HOME/.ntm'
-ARQUIVO='$HOME/.ntm/ntm_aliases'
+DIRETORIO=$HOME/.ntm
+ARQUIVO=$HOME/.ntm/ntm_aliases
 
-mkdir $DIRETORIO
+mkdir $HOME/.ntm
 
 touch $ARQUIVO 
 
