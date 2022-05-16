@@ -1,10 +1,12 @@
 #!/bin/zsh
 
-VERIFICA E INSTALA
 ZIP='ntm.zip'
-URL=
+URL='https://github.com/RENATOADORNO/ntm/archive/refs/heads/aliases.zip'
+DIR='ntm-aliases'
+NAME='.ntm'
 wget -O $ZIP $URL
 unzip $ZIP -d $HOME/
+mv $HOME/$DIR $HOME/$NAME
 
 if [ -f $ZIP ]
 then
