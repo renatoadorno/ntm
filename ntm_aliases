@@ -1,10 +1,10 @@
 # variaveis
 ts='-ts'
-urlTemplate='https://github.com/RENATOADORNO/ntm-api-template-standard/archive/refs/heads/template-standard.zip'
-urlTemplateTs='https://github.com/RENATOADORNO/ntm-api-template-standard/archive/refs/heads/template-standard-ts.zip'
+urlTemplate='https://github.com/RENATOADORNO/ntm-template-api/archive/refs/heads/template-standard.zip'
+urlTemplateTs='https://github.com/RENATOADORNO/ntm-template-api/archive/refs/heads/template-standard-ts.zip'
 nameZip='main.zip'
-nameTemplate='ntm-api-template-standard-template-standard'
-nameTemplateTs='ntm-api-template-standard-template-standard-ts'
+nameTemplate='ntm-template-api-template-standard'
+nameTemplateTs='ntm-template-api-template-standard-ts'
 defaultName='my-node-project'
 
 # Node Model Manager
