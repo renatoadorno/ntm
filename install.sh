@@ -7,7 +7,7 @@ ARQUIVO=$HOME/.zs
 
 # touch $ARQUIVO 
 
-cat > $ARQUIVO << EOF
+cat >> $ARQUIVO << EOF
   if [ -f ~/.zshrc_aliases ]; then
     . ~/.zshrc_aliases
   fi
