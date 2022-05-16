@@ -8,6 +8,8 @@ ARQUIVO=$HOME/.zs
 # touch $ARQUIVO 
 
 cat >> $ARQUIVO << EOF
+
+  # ntm
   if [ -f ~/.zshrc_aliases ]; then
     . ~/.zshrc_aliases
   fi
